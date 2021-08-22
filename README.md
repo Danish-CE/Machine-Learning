@@ -5,11 +5,8 @@ I have further worked on visualisations on data.
 Later, i worked on multiple regression, classification, Clustering machine learning models and techniques to solve some practice problems which this repository contains in separate folders. i.e.
 
 * Linear Regression
-* Multiple Linear Regression
 * Logistic Regression
 * KNN Classification
-* Decision Tree
-* Random Tree
 * SVM
 * K-Means Clustering
 
