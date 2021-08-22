@@ -18,10 +18,9 @@ Following are the dependencies that you are going to need to be able to run this
 1. python=3.6
 2. numpy
 3. pandas
-4. seaborn
-5. scikit-learn
-6. python-graphviz
-7. pydotplus
+4. scikit-learn
+5. python-graphviz
+6. pydotplus
 ```
 
 
