@@ -9,6 +9,8 @@ Later, i worked on multiple regression, classification, Clustering machine learn
 * KNN Classification
 * SVM
 * K-Means Clustering
+* Neural Network
+
 
 Following are the dependencies that you are going to need to be able to run this respository on your computer.
 ```
