@@ -1,7 +1,6 @@
-# Bilal-Training-Repository
+# Training-Repository
 
-This repository contains the practise exercises i have done during my first two weeks at Metis Pvt. International Islamabad.
-It contains separate folders for mutiple exercises which i have done to get myself fimiliar with analysis manipulation operations performed on data using panda and numpy libary. 
+This ripostary contains separate folders for mutiple exercises which i have done to get myself fimiliar with analysis manipulation operations performed on data using panda and numpy libary. 
 I have further worked on seaborn library which helped me perform multiple types of visualisations on data.
 Later, i worked on multiple regression, classification, Clustering machine learning models and techniques to solve some practice problems which this repository contains in separate folders. i.e.
 
