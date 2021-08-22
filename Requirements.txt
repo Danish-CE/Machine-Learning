@@ -1,0 +1,8 @@
+//conda install <packagename>
+python=3.6
+numpy
+pandas
+seaborn
+scikit-learn
+python-graphviz
+pydotplus
